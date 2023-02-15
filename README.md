@@ -1,3 +1,12 @@
+loading icon 
+api fetch - render products 
+hooks 
+axios fetch
+search filter by title name.
+alert on error
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

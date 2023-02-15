@@ -1,12 +1,11 @@
 // import logo from './logo.svg';
 import './App.css';
-import data from "./products.json";
-import Product from './Product';
+import ProductList from './components/ProductList';
 
 function App() {
   // data.products.map(item => {console.log(item.title)})
   return (
-   <Product/>
+   <ProductList/>
   );
 }
 
